@@ -1,6 +1,6 @@
 # To Do List App
 
-A new Flutter project.
+Welcome to our project. This is a To Do List App designed with Flutter.
 
 ## Getting Started
 
